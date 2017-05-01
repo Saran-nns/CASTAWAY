@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+//Not used in the game//
+//Tried to animate the story letter by letter at each time step//
+
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
