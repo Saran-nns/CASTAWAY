@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+//Most crucial script in the game
+//Attached with the Enemy game objects that asks the enemy to chase the player (tagged as "Prey") only when he is in range.
+
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
