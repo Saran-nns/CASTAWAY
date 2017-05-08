@@ -42,7 +42,7 @@ namespace M
 					Debug.Log (itemscount);
 					pickupitem.PlayOneShot(Pickup, 0.7f);
 					Destroy (collision.gameObject);
-					if (itemscount == 4) {
+					if (itemscount == 8) {
 						SceneManager.LoadScene (2);   // If all items are collected Player wins
 					}
 					return;
