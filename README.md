@@ -6,6 +6,7 @@ A survival strategic game with third person characters (Lethal and non-lethal) i
 
 [Castaway](https://youtu.be/_icYwhS8iL0)
 
+http://img.youtube.com/vi/_icYwhS8iL0/0.jpg
 
 
 
