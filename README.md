@@ -6,15 +6,13 @@ A survival strategic game with third person characters (Lethal and non-lethal) i
 
 [Castaway](https://youtu.be/6DjZHfrJmHY)
 
-[![HARD MODE](http://img.youtube.com/vi/6DjZHfrJmHY/0.jpg)
-[](https://www.youtube.com/watch?v=6DjZHfrJmHY&feature=youtu.be "Easy game play")]
+[![HARD MODE](http://img.youtube.com/vi/6DjZHfrJmHY/0.jpg)](https://www.youtube.com/watch?v=6DjZHfrJmHY&feature=youtu.be "Easy game play")
 
 ### Hard mode: Sample Environment:
 
 [Castaway](https://youtu.be/_icYwhS8iL0)
 
-[![HARD MODE](http://img.youtube.com/vi/_icYwhS8iL0/0.jpg)
-[](https://www.youtube.com/watch?v=_icYwhS8iL0&feature=youtu.be "Hard game play")]
+[![HARD MODE](http://img.youtube.com/vi/_icYwhS8iL0/0.jpg)](https://www.youtube.com/watch?v=_icYwhS8iL0&feature=youtu.be "Hard game play")
 
 
 
