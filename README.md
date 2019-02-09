@@ -1,6 +1,6 @@
 # CASTAWAY
 
-A survival strategic game with third person characters (Lethal and non-lethal) in the game are driven by AI build using NeedSIM life simulation. 
+A survival strategic game with third person characters (Lethal and non-lethal) in the game are driven by AI build using NeedSIM life simulation. Though the enemies are lethal, they attack the player only when they are in hunger (A Need, they should satisy to survive in the game). 
 
 ### Easy mode: Sample game play:
 
